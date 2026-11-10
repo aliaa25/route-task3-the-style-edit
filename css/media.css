@@ -176,6 +176,9 @@
   html {
     font-size: 55%;
   }
+  .mobile-menu {
+    width: 60%;
+  }
   .home-text h1 {
     font-size: 4.4rem;
   }

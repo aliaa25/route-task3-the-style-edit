@@ -557,7 +557,7 @@ nav {
   font-size: 7.2rem;
   line-height: 1.25;
   letter-spacing: -0.1rem;
-  text-shadow: 3px 3px 0 var(--black-80);
+  text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.3);
 }
 .home-text p ,
 .left-side p ,
